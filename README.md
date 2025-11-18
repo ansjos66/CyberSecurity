@@ -1,6 +1,4 @@
-Welcome to my Cybersecurity Portfolio!
-
-This repository showcases hands-on projects, security tools, and practical labs that demonstrate my skills.
+Welcome to my Cybersecurity Portfolio!This repository showcases hands-on projects, security tools, and practical labs that demonstrate my skills.
 
 I’m passionate about IT operations, security, and problem-solving. My experience includes:
 
