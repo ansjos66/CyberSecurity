@@ -1,15 +1,19 @@
+Hi I am Anshu Joshi
 Welcome to my Cybersecurity Portfolio!This repository showcases hands-on projects, security tools, and practical labs that demonstrate my skills.
+I’m passionate about IT operations, security, and problem-solving. 
+My experience includes:
+Access management & onboarding/offboarding, Security fundamentals & incident escalation,Automation using Python & PowerShell,Troubleshooting Windows, networks, and authentication,Hands-on labs from JobSkillShare & personal learning projects. I enjoy building practical tools and documenting solutions that help make IT processes more efficient and secure.
 
-I’m passionate about IT operations, security, and problem-solving. My experience includes:
 
-Access management & onboarding/offboarding
-
-Security fundamentals & incident escalation
-
-Automation using Python & PowerShell
-
-Troubleshooting Windows, networks, and authentication
-
-Hands-on labs from JobSkillShare & personal learning projects
-
-I enjoy building practical tools and documenting solutions that help make IT processes more efficient and secure.
+ansjos66 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
+Here are some ideas to get you started:
+ 
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
